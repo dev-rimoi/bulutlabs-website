@@ -1,0 +1,170 @@
+{
+  "HomePage": {
+    "hero": {
+      "title": "Technology for Sustainable Good",
+      "subtitle": "A technology company creating lasting social impact through innovative software solutions, harnessing the power of technology for social benefit",
+      "cta": "Discover Our Technology"
+    },
+    "proof": {
+      "title": "First Proof: iyiligo",
+      "description": "Our first project, iyiligo, combines social participation, gamification, and radical transparency, proving the power of our model.",
+      "totalValue": "Total Value Created",
+      "campaigns": "Supported Campaign",
+      "cta": "Explore Project"
+    },
+    "team": {
+      "title": "We're Building a Team to Solve the Hardest Problems",
+      "description": "If your greatest satisfaction comes from overcoming the toughest challenges, you might be who we're looking for.",
+      "cta": "View Open Positions"
+    }
+  },
+  "Navigation": {
+    "vision": "Vision",
+    "model": "Our Model",
+    "projects": "Our Projects",
+    "joinUs": "Join Us",
+    "career": "Careers",
+    "investorRelations": "Investor Relations",
+    "proposeProject": "Propose a Project",
+    "contact": "Contact"
+  },
+  "Vision": {
+    "title": "Goodness. Recoded.",
+    "brokenModel": {
+      "title": "The Broken Model",
+      "content": "The current philanthropy system tries to solve 21st-century problems with 19th-century tools. Donors don't know where their money goes, NGOs can't find sustainable income, and impact can't be measured."
+    },
+    "catalyst": {
+      "title": "The Catalyst",
+      "content": "Bulut Labs was founded not to repair this broken system, but to rebuild it from scratch. We combine the speed and scale of tech companies with the mission of social institutions."
+    },
+    "engine": {
+      "title": "The Goodness Engine",
+      "content": "Our vision is simple yet revolutionary: Build profitable, growing, competitive tech companies and systematically direct 51% of their profits to social good."
+    }
+  },
+  "Model": {
+    "title": "Engine and Compass: Our Hybrid Model Architecture",
+    "inc": {
+      "title": "Bulut Labs, Inc.",
+      "subtitle": "ENGINE",
+      "description": "Technology Production, Commercial Success, Revenue Generation",
+      "status": "Delaware C-Corp"
+    },
+    "foundation": {
+      "title": "Bulut Labs Foundation",
+      "subtitle": "COMPASS",
+      "description": "Impact Creation, Fund Distribution, Transparent Oversight",
+      "status": "501(c)(3)"
+    },
+    "transfer": {
+      "percentage": "51% Net Profit Transfer",
+      "rule": "Our Constitutional Rule: Profit is the Fuel of Purpose"
+    }
+  },
+  "Projects": {
+    "title": "Our Projects",
+    "iyiligo": {
+      "title": "Case Study: iyiligo - Creating Hope Through Participation Economy",
+      "description": "Our first platform combining gamification and social participation with a radical transparency model.",
+      "metrics": {
+        "totalFunds": "Total Funds Raised",
+        "participants": "Number of Participants"
+      },
+      "cta": "Visit iyiligo.com"
+    },
+    "whatsNext": {
+      "title": "What's Next?",
+      "description": "iyiligo is just the beginning. Our R&D team is working on new solutions in areas like data analytics for rare diseases and centralized support platforms for patient families. Stay tuned as we ignite the next goodness engine."
+    }
+  },
+  "Career": {
+    "title": "The Hardest Problems Seek the Brightest Minds",
+    "tagline": "Earn purpose with your paycheck.",
+    "description": "We don't offer salary and benefits; you'll get those anyway. We offer you a reason to get out of bed in the morning that will change the world.",
+    "whyUs": {
+      "title": "The 51% Constitution: Your Code's Impact Multiplier",
+      "description": "Every line of code you write here doesn't just improve a product; it increases a company's profits, and 51% of those profits are directly transferred to a foundation touching a child's life. Working at Bulut Labs means simultaneously growing your talent, our financial success, and the social impact we create. This is our 'impact multiplier'."
+    },
+    "whoWeSeek": {
+      "title": "We're Looking for Like-Minded People",
+      "description": "We're looking for engineers, designers, and strategists who fall in love with problems, get excited when told 'it can't be done,' and await the social impact reports of their code with more curiosity than financial reports."
+    },
+    "openPositions": "Open Positions"
+  },
+  "JoinUs": {
+    "title": "Let's Code the Future Together",
+    "subtitle": "We need you too as we build this movement. Which role would you like to play?",
+    "career": {
+      "title": "CAREER",
+      "description": "If you're looking for a mission, not just a job. If you want to change a life with every line of code you write. Be part of our team.",
+      "cta": "Open Positions"
+    },
+    "invest": {
+      "title": "INVEST",
+      "description": "A next-generation investment opportunity where financial returns meet social impact. Create a portfolio that's both profitable and meaningful. Become our investment partner.",
+      "cta": "Investor Relations"
+    },
+    "idea": {
+      "title": "IDEA",
+      "description": "The next 'iyiligo' could be your idea. If you have a technology-driven project that will change the world, if you're looking for a partner to bring it to life. Share your idea with us.",
+      "cta": "Propose Project"
+    }
+  },
+  "Invest": {
+    "title": "Invest in a Higher Purpose",
+    "subtitle": "Two sides of return: Financial and Social. We maximize both.",
+    "whyStrategic": {
+      "title": "Why a Strategic Investment?",
+      "content": "Our model is not just a social responsibility project; it's a smart business strategy. A meaningful mission attracts the best talent, which means better products. A strong story creates organic brand awareness, which reduces marketing costs. Radical transparency builds unshakeable customer and partner loyalty. Investing in Bulut Labs is investing in a technology company with competitive advantage enhanced by positive impact."
+    },
+    "cta": {
+      "text": "If you're an accredited investor interested in being part of a next-generation impact investment model, please contact us to request our detailed investor presentation and financial projections.",
+      "email": "invest@bulutlabs.com"
+    }
+  },
+  "ProposeProject": {
+    "title": "Could the Next 'iyiligo' Be Your Idea?",
+    "subtitle": "We can ignite the next goodness engine together.",
+    "criteria": {
+      "title": "Our Criteria",
+      "description": "As Bulut Labs, we're looking for technology-driven, scalable projects that serve our mission and have the potential to generate their own revenue. If you have such an idea, we're ready to listen."
+    },
+    "form": {
+      "problem": "What's the problem?",
+      "solution": "Your proposed solution?",
+      "revenue": "Potential revenue model?",
+      "contact": "Your contact information",
+      "submit": "Submit"
+    }
+  },
+  "Contact": {
+    "title": "Contact",
+    "subtitle": "Have an idea to change the world? Let's talk.",
+    "general": {
+      "title": "General Inquiries",
+      "description": "For questions, suggestions, or collaboration requests",
+      "email": "info@bulutlabs.com"
+    },
+    "investor": {
+      "title": "Investor Relations",
+      "description": "For investment opportunities and financial information",
+      "email": "invest@bulutlabs.com"
+    },
+    "press": {
+      "title": "Press Relations",
+      "description": "For media inquiries and press kits",
+      "email": "press@bulutlabs.com"
+    },
+    "careers": {
+      "title": "Careers",
+      "description": "For job applications and career opportunities",
+      "email": "careers@bulutlabs.com"
+    },
+    "address": {
+      "title": "Address",
+      "line1": "Bulut Labs, Inc.",
+      "line2": "Istanbul, Turkey"
+    }
+  }
+}

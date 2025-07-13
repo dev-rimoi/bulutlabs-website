@@ -1,0 +1,170 @@
+{
+  "HomePage": {
+    "hero": {
+      "title": "Tecnologia per il Bene Sostenibile",
+      "subtitle": "Un'azienda tecnologica che crea impatto sociale duraturo con soluzioni software innovative, utilizzando il potere della tecnologia per il beneficio della società",
+      "cta": "Scopri la Nostra Tecnologia"
+    },
+    "proof": {
+      "title": "Prima Prova: iyiligo",
+      "description": "Il nostro primo progetto iyiligo, che combina partecipazione sociale, gamification e trasparenza radicale, dimostra la potenza del nostro modello.",
+      "totalValue": "Valore Totale Creato",
+      "campaigns": "Campagne Supportate",
+      "cta": "Esplora il Progetto"
+    },
+    "team": {
+      "title": "Stiamo Costruendo un Team per Risolvere i Problemi Più Difficili",
+      "description": "Se anche per te la massima soddisfazione viene dal superare le sfide più difficili, potresti essere la persona che stiamo cercando.",
+      "cta": "Vedi le Posizioni Aperte"
+    }
+  },
+  "Navigation": {
+    "vision": "Visione",
+    "model": "Il Nostro Modello",
+    "projects": "I Nostri Progetti",
+    "joinUs": "Unisciti a Noi",
+    "career": "Carriera",
+    "investorRelations": "Relazioni con gli Investitori",
+    "proposeProject": "Proponi un Progetto",
+    "contact": "Contatti"
+  },
+  "Vision": {
+    "title": "Il Bene. Riprogrammato.",
+    "brokenModel": {
+      "title": "Il Modello Rotto",
+      "content": "L'attuale sistema di beneficenza cerca di risolvere i problemi del 21° secolo con gli strumenti del 19° secolo. I donatori non sanno dove vanno i loro soldi, le ONG non trovano entrate sostenibili, l'impatto non può essere misurato."
+    },
+    "catalyst": {
+      "title": "Il Catalizzatore",
+      "content": "Bulut Labs è stata fondata non per riparare questo sistema rotto, ma per ricostruirlo da zero. Combiniamo la velocità e la scala delle aziende tecnologiche con la missione delle istituzioni sociali."
+    },
+    "engine": {
+      "title": "Il Motore del Bene",
+      "content": "La nostra visione è semplice ma rivoluzionaria: Creare aziende tecnologiche che generano profitto, crescono e competono, indirizzando sistematicamente il 51% dei loro profitti al beneficio sociale."
+    }
+  },
+  "Model": {
+    "title": "Motore e Bussola: La Nostra Architettura di Modello Ibrido",
+    "inc": {
+      "title": "Bulut Labs, Inc.",
+      "subtitle": "MOTORE",
+      "description": "Produzione Tecnologica, Successo Commerciale, Generazione di Entrate",
+      "status": "Delaware C-Corp"
+    },
+    "foundation": {
+      "title": "Bulut Labs Foundation",
+      "subtitle": "BUSSOLA",
+      "description": "Creazione d'Impatto, Distribuzione dei Fondi, Controllo Trasparente",
+      "status": "501(c)(3)"
+    },
+    "transfer": {
+      "percentage": "51% Trasferimento del Profitto Netto",
+      "rule": "La Nostra Regola Costituzionale: Il Profitto è il Carburante dello Scopo"
+    }
+  },
+  "Projects": {
+    "title": "I Nostri Progetti",
+    "iyiligo": {
+      "title": "Caso Studio: iyiligo - Creare Speranza con l'Economia della Partecipazione",
+      "description": "La nostra prima piattaforma che opera con un modello di trasparenza radicale, combinando gamification e partecipazione sociale.",
+      "metrics": {
+        "totalFunds": "Fondi Raccolti",
+        "participants": "Numero di Partecipanti"
+      },
+      "cta": "Visita iyiligo.com"
+    },
+    "whatsNext": {
+      "title": "Cosa C'è Dopo?",
+      "description": "iyiligo è solo l'inizio. Il nostro team di R&S sta lavorando su nuove soluzioni in aree come l'analisi dei dati per malattie rare e piattaforme di supporto centralizzate per famiglie di pazienti. Rimanete sintonizzati per accendere il prossimo motore del bene."
+    }
+  },
+  "Career": {
+    "title": "I Problemi Più Difficili da Risolvere Cercano le Menti Più Brillanti",
+    "tagline": "Guadagna uno scopo insieme al tuo stipendio.",
+    "description": "Non offriamo stipendi e benefit; li riceverai comunque. Ti offriamo una ragione per alzarti dal letto la mattina che cambierà il mondo.",
+    "whyUs": {
+      "title": "La Costituzione del 51%: Il Moltiplicatore d'Impatto del Tuo Codice",
+      "description": "Ogni riga di codice che scrivi qui non migliora solo un prodotto; aumenta i profitti di un'azienda e il 51% di quei profitti viene trasferito direttamente a una fondazione che tocca la vita di un bambino. Lavorare in Bulut Labs significa far crescere contemporaneamente il tuo talento, il nostro successo finanziario e l'impatto sociale che creiamo. Questo è il nostro 'moltiplicatore d'impatto'."
+    },
+    "whoWeSeek": {
+      "title": "Cerchiamo Chi Pensa Come Noi",
+      "description": "Cerchiamo ingegneri, designer e strategisti che si innamorano dei problemi, si entusiasmano quando sentono 'non si può fare', e attendono il rapporto sull'impatto sociale del codice che scrivono con maggiore curiosità rispetto al rapporto finanziario."
+    },
+    "openPositions": "Posizioni Aperte"
+  },
+  "JoinUs": {
+    "title": "Programmiamo il Futuro Insieme",
+    "subtitle": "Abbiamo bisogno anche di te mentre costruiamo questo movimento. In quale ruolo vorresti partecipare?",
+    "career": {
+      "title": "CARRIERA",
+      "description": "Se stai cercando non solo un lavoro, ma una missione. Se vuoi cambiare una vita con ogni riga di codice che scrivi. Diventa parte del nostro team.",
+      "cta": "Posizioni Aperte"
+    },
+    "invest": {
+      "title": "INVESTIMENTO",
+      "description": "Un'opportunità di investimento di nuova generazione dove il rendimento finanziario si unisce all'impatto sociale. Crea un portafoglio sia redditizio che significativo. Diventa nostro partner investitore.",
+      "cta": "Relazioni con gli Investitori"
+    },
+    "idea": {
+      "title": "IDEA",
+      "description": "Il prossimo 'iyiligo' potrebbe essere la tua idea. Se hai un progetto tecnologico che cambierà il mondo, se stai cercando un partner per realizzarlo. Condividi la tua idea con noi.",
+      "cta": "Proponi un Progetto"
+    }
+  },
+  "Invest": {
+    "title": "Investi in uno Scopo Più Alto",
+    "subtitle": "Due facce del rendimento: Finanziario e Sociale. Noi massimizziamo entrambi.",
+    "whyStrategic": {
+      "title": "Perché È un Investimento Strategico?",
+      "content": "Il nostro modello non è solo un progetto di responsabilità sociale; è una strategia aziendale intelligente. Una missione significativa attrae i migliori talenti, il che significa prodotti migliori. Una storia forte crea consapevolezza organica del marchio, riducendo i costi di marketing. La trasparenza radicale costruisce una fedeltà incrollabile di clienti e partner. Investire in Bulut Labs significa investire in un'azienda tecnologica con alto vantaggio competitivo, potenziata dall'impatto positivo."
+    },
+    "cta": {
+      "text": "Se sei un investitore accreditato e sei interessato a far parte di un modello di investimento d'impatto di nuova generazione, ti preghiamo di contattarci per richiedere la nostra presentazione dettagliata per investitori e le proiezioni finanziarie.",
+      "email": "invest@bulutlabs.com"
+    }
+  },
+  "ProposeProject": {
+    "title": "Il Prossimo 'iyiligo' Potrebbe Essere la Tua Idea?",
+    "subtitle": "Possiamo accendere insieme il prossimo motore del bene.",
+    "criteria": {
+      "title": "I Nostri Criteri",
+      "description": "Come Bulut Labs, cerchiamo progetti che servano la nostra missione, siano focalizzati sulla tecnologia, scalabili e abbiano il potenziale di generare le proprie entrate. Se hai un'idea del genere, siamo pronti ad ascoltare."
+    },
+    "form": {
+      "problem": "Qual è il problema?",
+      "solution": "La tua proposta di soluzione?",
+      "revenue": "Modello di entrate potenziale?",
+      "contact": "I tuoi dati di contatto",
+      "submit": "Invia"
+    }
+  },
+  "Contact": {
+    "title": "Contatti",
+    "subtitle": "Hai un'idea per cambiare il mondo? Parliamone.",
+    "general": {
+      "title": "Contatti Generali",
+      "description": "Per le tue domande, suggerimenti o richieste di collaborazione",
+      "email": "info@bulutlabs.com"
+    },
+    "investor": {
+      "title": "Relazioni con gli Investitori",
+      "description": "Per opportunità di investimento e informazioni finanziarie",
+      "email": "invest@bulutlabs.com"
+    },
+    "press": {
+      "title": "Relazioni con la Stampa",
+      "description": "Per richieste dei media e kit stampa",
+      "email": "press@bulutlabs.com"
+    },
+    "careers": {
+      "title": "Carriere",
+      "description": "Per candidature e opportunità di carriera",
+      "email": "careers@bulutlabs.com"
+    },
+    "address": {
+      "title": "Indirizzo",
+      "line1": "Bulut Labs, Inc.",
+      "line2": "Istanbul, Turchia"
+    }
+  }
+}

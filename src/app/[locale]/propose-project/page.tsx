@@ -26,24 +26,24 @@ export default function ProposeProjectPage() {
   };
 
   return (
-    <div className="min-h-screen py-20">
-      <div className="container mx-auto px-4">
+    <div className="min-h-screen py-12 sm:py-16 md:py-20">
+      <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="max-w-4xl mx-auto">
-          <h1 className="text-5xl md:text-7xl font-bold mb-6">
-            {t('title')}
+          <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-bold mb-4 sm:mb-6">
+            <span className="gradient-text">{t('title')}</span>
           </h1>
-          <p className="text-2xl text-gray-400 mb-16">
+          <p className="text-lg sm:text-xl md:text-2xl text-gray-400 mb-8 sm:mb-12 md:mb-16">
             {t('subtitle')}
           </p>
 
-          <section className="mb-16">
-            <h2 className="text-3xl font-bold mb-4">{t('criteria.title')}</h2>
-            <p className="text-lg text-gray-300">
+          <section className="mb-8 sm:mb-12 md:mb-16">
+            <h2 className="text-2xl sm:text-3xl font-bold mb-3 sm:mb-4 gradient-accent">{t('criteria.title')}</h2>
+            <p className="text-base sm:text-lg text-gray-300">
               {t('criteria.description')}
             </p>
           </section>
 
-          <form onSubmit={handleSubmit} className="space-y-6">
+          <form onSubmit={handleSubmit} className="space-y-4 sm:space-y-6">
             <div>
               <label htmlFor="problem" className="block text-sm font-medium text-gray-300 mb-2">
                 {t('form.problem')}
@@ -54,7 +54,7 @@ export default function ProposeProjectPage() {
                 rows={4}
                 value={formData.problem}
                 onChange={handleChange}
-                className="w-full px-4 py-3 bg-gray-900 border border-gray-800 rounded-md text-white focus:outline-none focus:border-gray-600 transition-colors"
+                className="w-full px-3 sm:px-4 py-2 sm:py-3 glass rounded-lg sm:rounded-xl text-white focus:outline-none focus:ring-2 focus:ring-white/20 transition-all"
                 required
               />
             </div>
@@ -69,7 +69,7 @@ export default function ProposeProjectPage() {
                 rows={4}
                 value={formData.solution}
                 onChange={handleChange}
-                className="w-full px-4 py-3 bg-gray-900 border border-gray-800 rounded-md text-white focus:outline-none focus:border-gray-600 transition-colors"
+                className="w-full px-3 sm:px-4 py-2 sm:py-3 glass rounded-lg sm:rounded-xl text-white focus:outline-none focus:ring-2 focus:ring-white/20 transition-all"
                 required
               />
             </div>
@@ -84,7 +84,7 @@ export default function ProposeProjectPage() {
                 rows={3}
                 value={formData.revenue}
                 onChange={handleChange}
-                className="w-full px-4 py-3 bg-gray-900 border border-gray-800 rounded-md text-white focus:outline-none focus:border-gray-600 transition-colors"
+                className="w-full px-3 sm:px-4 py-2 sm:py-3 glass rounded-lg sm:rounded-xl text-white focus:outline-none focus:ring-2 focus:ring-white/20 transition-all"
                 required
               />
             </div>
@@ -99,14 +99,14 @@ export default function ProposeProjectPage() {
                 name="contact"
                 value={formData.contact}
                 onChange={handleChange}
-                className="w-full px-4 py-3 bg-gray-900 border border-gray-800 rounded-md text-white focus:outline-none focus:border-gray-600 transition-colors"
+                className="w-full px-3 sm:px-4 py-2 sm:py-3 glass rounded-lg sm:rounded-xl text-white focus:outline-none focus:ring-2 focus:ring-white/20 transition-all"
                 required
               />
             </div>
 
             <button
               type="submit"
-              className="bg-white text-gray-950 px-8 py-3 rounded-md font-semibold hover:bg-gray-100 transition-colors"
+              className="w-full sm:w-auto bg-white text-gray-950 px-6 sm:px-8 py-3 rounded-lg sm:rounded-xl font-semibold hover:bg-gray-100 transition-all transform hover:scale-105 active:scale-95 touch-manipulation"
             >
               {t('form.submit')}
             </button>

@@ -42,16 +42,16 @@ export default async function CareerPage({ params }: Props) {
             <h2 className="text-2xl sm:text-3xl font-bold mb-6 sm:mb-8">{t('openPositions')}</h2>
             <div className="grid grid-cols-1 gap-4">
               <div className="glass glass-hover rounded-lg sm:rounded-xl p-5 sm:p-6 cursor-pointer transform transition-all duration-300 hover:scale-[1.02] active:scale-[0.98] touch-manipulation">
-                <h3 className="text-lg sm:text-xl font-semibold mb-2">Senior Full Stack Engineer</h3>
-                <p className="text-sm sm:text-base text-gray-400">Remote • Full-time</p>
+                <h3 className="text-lg sm:text-xl font-semibold mb-2">{t('positions.seniorFullStack')}</h3>
+                <p className="text-sm sm:text-base text-gray-400">{t('positions.location')}</p>
               </div>
               <div className="glass glass-hover rounded-lg sm:rounded-xl p-5 sm:p-6 cursor-pointer transform transition-all duration-300 hover:scale-[1.02] active:scale-[0.98] touch-manipulation">
-                <h3 className="text-lg sm:text-xl font-semibold mb-2">Product Designer</h3>
-                <p className="text-sm sm:text-base text-gray-400">Remote • Full-time</p>
+                <h3 className="text-lg sm:text-xl font-semibold mb-2">{t('positions.productDesigner')}</h3>
+                <p className="text-sm sm:text-base text-gray-400">{t('positions.location')}</p>
               </div>
               <div className="glass glass-hover rounded-lg sm:rounded-xl p-5 sm:p-6 cursor-pointer transform transition-all duration-300 hover:scale-[1.02] active:scale-[0.98] touch-manipulation">
-                <h3 className="text-lg sm:text-xl font-semibold mb-2">Data Scientist</h3>
-                <p className="text-sm sm:text-base text-gray-400">Remote • Full-time</p>
+                <h3 className="text-lg sm:text-xl font-semibold mb-2">{t('positions.dataScientist')}</h3>
+                <p className="text-sm sm:text-base text-gray-400">{t('positions.location')}</p>
               </div>
             </div>
           </section>

@@ -3,7 +3,9 @@
     "hero": {
       "title": "Tecnologia per il Bene Sostenibile",
       "subtitle": "Un'azienda tecnologica che crea impatto sociale duraturo con soluzioni software innovative, utilizzando il potere della tecnologia per il beneficio della società",
-      "cta": "Scopri la Nostra Tecnologia"
+      "cta": "Scopri la Nostra Tecnologia",
+      "badge": "Tecnologia per il Bene Sostenibile",
+      "video": "Video di Presentazione"
     },
     "proof": {
       "title": "Prima Prova: iyiligo",
@@ -89,6 +91,12 @@
     "whoWeSeek": {
       "title": "Cerchiamo Chi Pensa Come Noi",
       "description": "Cerchiamo ingegneri, designer e strategisti che si innamorano dei problemi, si entusiasmano quando sentono 'non si può fare', e attendono il rapporto sull'impatto sociale del codice che scrivono con maggiore curiosità rispetto al rapporto finanziario."
+    },
+    "positions": {
+      "seniorFullStack": "Ingegnere Full Stack Senior",
+      "productDesigner": "Product Designer",
+      "dataScientist": "Data Scientist",
+      "location": "Remoto • Tempo pieno"
     },
     "openPositions": "Posizioni Aperte"
   },

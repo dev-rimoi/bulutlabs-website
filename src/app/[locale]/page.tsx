@@ -20,7 +20,7 @@ export default async function HomePage({ params }: Props) {
           <div className="text-center max-w-5xl mx-auto">
             <div className="mb-6 md:mb-8 inline-block">
               <div className="glass px-4 md:px-6 py-2 rounded-full text-xs md:text-sm font-medium">
-                <span className="gradient-accent">✨ Sürdürülebilir İyilik için Teknoloji</span>
+                <span className="gradient-accent">✨ {t('hero.badge')}</span>
               </div>
             </div>
             
@@ -44,7 +44,7 @@ export default async function HomePage({ params }: Props) {
               </button>
               
               <button className="glass glass-hover px-6 sm:px-8 py-3 sm:py-4 rounded-lg font-semibold text-base sm:text-lg w-full sm:w-auto">
-                Tanıtım Videosu
+                {t('hero.video')}
               </button>
             </div>
           </div>

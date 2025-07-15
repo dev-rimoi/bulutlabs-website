@@ -3,7 +3,9 @@
     "hero": {
       "title": "Sürdürülebilir İyilik İçin Teknoloji",
       "subtitle": "Yenilikçi yazılım çözümleriyle kalıcı sosyal etki yaratan, teknolojinin gücünü toplumsal fayda için kullanan bir teknoloji şirketi",
-      "cta": "Teknolojimizi Keşfedin"
+      "cta": "Teknolojimizi Keşfedin",
+      "badge": "Sürdürülebilir İyilik İçin Teknoloji",
+      "video": "Tanıtım Videosu"
     },
     "proof": {
       "title": "İlk Kanıt: iyiligo",
@@ -89,6 +91,12 @@
     "whoWeSeek": {
       "title": "Bizim Gibi Düşünenleri Arıyoruz",
       "description": "Problemlere aşık, 'bu yapılamaz' dendiğinde heyecanlanan, yazdığı kodun yarattığı sosyal etki raporunu, finansal rapordan daha büyük bir merakla bekleyen mühendisler, tasarımcılar ve stratejistler arıyoruz."
+    },
+    "positions": {
+      "seniorFullStack": "Kıdemli Full Stack Mühendisi",
+      "productDesigner": "Ürün Tasarımcısı",
+      "dataScientist": "Veri Bilimci",
+      "location": "Uzaktan • Tam Zamanlı"
     },
     "openPositions": "Açık Pozisyonlar"
   },

@@ -3,7 +3,9 @@
     "hero": {
       "title": "Technologie pour le Bien Durable",
       "subtitle": "Une entreprise technologique qui crée un impact social durable avec des solutions logicielles innovantes, utilisant le pouvoir de la technologie pour le bénéfice social",
-      "cta": "Découvrez Notre Technologie"
+      "cta": "Découvrez Notre Technologie",
+      "badge": "Technologie pour le Bien Durable",
+      "video": "Vidéo d'Introduction"
     },
     "proof": {
       "title": "Première Preuve : iyiligo",
@@ -89,6 +91,12 @@
     "whoWeSeek": {
       "title": "Nous Recherchons des Personnes qui Pensent Comme Nous",
       "description": "Nous recherchons des ingénieurs, designers et stratèges passionnés par les problèmes, excités quand on leur dit 'c'est impossible', et qui attendent avec plus de curiosité le rapport d'impact social de leur code que le rapport financier."
+    },
+    "positions": {
+      "seniorFullStack": "Ingénieur Full Stack Senior",
+      "productDesigner": "Designer Produit",
+      "dataScientist": "Data Scientist",
+      "location": "Remote • Temps plein"
     },
     "openPositions": "Postes Ouverts"
   },

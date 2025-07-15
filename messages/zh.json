@@ -3,7 +3,9 @@
     "hero": {
       "title": "科技赋能可持续公益",
       "subtitle": "我们是一家科技公司，通过创新的软件解决方案创造持久的社会影响，将科技的力量用于社会公益",
-      "cta": "探索我们的技术"
+      "cta": "探索我们的技术",
+      "badge": "科技赋能可持续公益",
+      "video": "介绍视频"
     },
     "proof": {
       "title": "首个验证：iyiligo",
@@ -89,6 +91,12 @@
     "whoWeSeek": {
       "title": "我们寻找志同道合的人",
       "description": "我们寻找热爱解决问题、听到'这做不到'时会兴奋、对代码创造的社会影响报告比财务报告更感兴趣的工程师、设计师和策略师。"
+    },
+    "positions": {
+      "seniorFullStack": "高级全栈工程师",
+      "productDesigner": "产品设计师",
+      "dataScientist": "数据科学家",
+      "location": "远程 • 全职"
     },
     "openPositions": "空缺职位"
   },

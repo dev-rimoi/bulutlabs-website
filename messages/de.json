@@ -3,7 +3,9 @@
     "hero": {
       "title": "Technologie für nachhaltiges Gutes",
       "subtitle": "Ein Technologieunternehmen, das mit innovativen Softwarelösungen dauerhafte soziale Wirkung erzeugt und die Kraft der Technologie für das Gemeinwohl nutzt",
-      "cta": "Entdecken Sie unsere Technologie"
+      "cta": "Entdecken Sie unsere Technologie",
+      "badge": "Technologie für nachhaltiges Gutes",
+      "video": "Einführungsvideo"
     },
     "proof": {
       "title": "Erster Beweis: iyiligo",
@@ -89,6 +91,12 @@
     "whoWeSeek": {
       "title": "Wir suchen Gleichgesinnte",
       "description": "Wir suchen Ingenieure, Designer und Strategen, die sich in Probleme verlieben, die aufgeregt werden, wenn jemand sagt 'das ist unmöglich', und die den sozialen Wirkungsbericht ihres Codes mit größerer Neugier erwarten als den Finanzbericht."
+    },
+    "positions": {
+      "seniorFullStack": "Senior Full Stack Ingenieur",
+      "productDesigner": "Produktdesigner",
+      "dataScientist": "Datenwissenschaftler",
+      "location": "Remote • Vollzeit"
     },
     "openPositions": "Offene Stellen"
   },

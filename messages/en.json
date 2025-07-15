@@ -3,7 +3,9 @@
     "hero": {
       "title": "Technology for Sustainable Good",
       "subtitle": "A technology company creating lasting social impact through innovative software solutions, harnessing the power of technology for social benefit",
-      "cta": "Discover Our Technology"
+      "cta": "Discover Our Technology",
+      "badge": "Technology for Sustainable Good",
+      "video": "Introduction Video"
     },
     "proof": {
       "title": "First Proof: iyiligo",
@@ -89,6 +91,12 @@
     "whoWeSeek": {
       "title": "We're Looking for Like-Minded People",
       "description": "We're looking for engineers, designers, and strategists who fall in love with problems, get excited when told 'it can't be done,' and await the social impact reports of their code with more curiosity than financial reports."
+    },
+    "positions": {
+      "seniorFullStack": "Senior Full Stack Engineer",
+      "productDesigner": "Product Designer",
+      "dataScientist": "Data Scientist",
+      "location": "Remote • Full-time"
     },
     "openPositions": "Open Positions"
   },

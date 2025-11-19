@@ -1,178 +1,112 @@
 {
   "HomePage": {
     "hero": {
-      "title": "Technologie pour le Bien Durable",
-      "subtitle": "Une entreprise technologique qui crée un impact social durable avec des solutions logicielles innovantes, utilisant le pouvoir de la technologie pour le bénéfice social",
-      "cta": "Découvrez Notre Technologie",
-      "badge": "Technologie pour le Bien Durable",
-      "video": "Vidéo d'Introduction"
+      "badge": "Not started yet",
+      "title": "We're at the Beginning of Something",
+      "subtitle": "We want to build companies that share what they earn. For that, we need good products. Good products need good people. Right now, we're looking for those people.",
+      "cta": "Join Us",
+      "learnMore": "How We'll Work"
     },
-    "proof": {
-      "title": "Première Preuve : iyiligo",
-      "description": "Notre premier projet iyiligo, qui combine participation communautaire, gamification et transparence radicale, prouve la puissance de notre modèle.",
-      "totalValue": "Valeur Totale Créée",
-      "campaigns": "Campagnes Soutenues",
-      "cta": "Examiner le Projet"
+    "whatWeDo": {
+      "title": "What Are We Doing Now?",
+      "subtitle": "The invisible work. Building systems, designing processes.",
+      "description": "BulutLabs will be a technology platform. But first, people who think, build, and question will come together. The rest will follow."
     },
-    "team": {
-      "title": "Nous Construisons une Équipe pour Résoudre les Problèmes les Plus Difficiles",
-      "description": "Si votre plus grande satisfaction est de surmonter les défis les plus ardus, vous pourriez être la personne que nous recherchons.",
-      "cta": "Voir les Postes Ouverts"
+    "howWeWork": {
+      "title": "How Will We Work?",
+      "subtitle": "Part of what we earn will go to helping others earn. But first, we need to earn.",
+      "model": {
+        "label": "Part of Profit Goes Back",
+        "title": "Sustainable Model",
+        "description": "If we succeed, that success will be shared. With foundations, projects, people. But to do that, we need to succeed first. We'll get there with you.",
+        "note": "Business first, impact second."
+      },
+      "stats": {
+        "tech": "Technology",
+        "impact": "Impact",
+        "pragmatic": "Realism"
+      }
+    },
+    "joinUs": {
+      "title": "We Want to Build This With You",
+      "subtitle": "This isn't a job posting. This is an invitation to know you.",
+      "comingSoon": {
+        "badge": "Not ready yet",
+        "title": "We Don't Do Standard Applications",
+        "description": "Instead of sending a CV and waiting, let's talk. Let's hear who you are, what you want, why you want to be here."
+      },
+      "contact": {
+        "label": "You can write:"
+      },
+      "lookingFor": {
+        "ai": {
+          "icon": "",
+          "title": "The Curious",
+          "description": "Curious about technology, AI, new things. Love learning, questioning."
+        },
+        "builders": {
+          "icon": "",
+          "title": "The Makers",
+          "description": "Prefer doing over talking. Code, design, create."
+        },
+        "thinkers": {
+          "icon": "",
+          "title": "Success + Meaning Seekers",
+          "description": "Just making money isn't enough. Need to do something meaningful too."
+        }
+      }
+    },
+    "contact": {
+      "title": "Let's Talk",
+      "general": "General",
+      "more": "Other"
     }
   },
   "Navigation": {
-    "vision": "Vision",
-    "model": "Notre Modèle",
-    "projects": "Nos Projets",
-    "joinUs": "Rejoignez-nous",
-    "career": "Carrière",
-    "investorRelations": "Relations Investisseurs",
-    "proposeProject": "Proposer un Projet",
+    "home": "Home",
+    "career": "Career",
     "contact": "Contact"
   },
-  "Vision": {
-    "title": "Le Bien. Reprogrammé.",
-    "brokenModel": {
-      "title": "Modèle Défaillant",
-      "content": "Le système philanthropique actuel tente de résoudre les problèmes du 21e siècle avec des outils du 19e siècle. Les donateurs ne savent pas où va leur argent, les ONG ne trouvent pas de revenus durables, l'impact ne peut être mesuré."
-    },
-    "catalyst": {
-      "title": "Catalyseur",
-      "content": "Bulut Labs a été fondé non pas pour réparer ce système défaillant, mais pour le reconstruire à partir de zéro. Nous combinons la vitesse et l'échelle des entreprises technologiques avec la mission des institutions sociales."
-    },
-    "engine": {
-      "title": "Moteur du Bien",
-      "content": "Notre vision est simple mais révolutionnaire : créer des entreprises technologiques rentables, en croissance et compétitives, et diriger systématiquement 51% de leurs profits vers le bénéfice social."
-    }
-  },
-  "Model": {
-    "title": "Moteur et Boussole : Notre Architecture de Modèle Hybride",
-    "inc": {
-      "title": "Bulut Labs, Inc.",
-      "subtitle": "MOTEUR",
-      "description": "Production Technologique, Succès Commercial, Génération de Revenus",
-      "status": "Delaware C-Corp"
-    },
-    "foundation": {
-      "title": "Bulut Labs Foundation",
-      "subtitle": "BOUSSOLE",
-      "description": "Création d'Impact, Distribution de Fonds, Audit Transparent",
-      "status": "501(c)(3)"
-    },
-    "transfer": {
-      "percentage": "Transfert de 51% du Profit Net",
-      "rule": "Notre Règle Constitutionnelle : Le Profit est le Carburant du But"
-    }
-  },
-  "Projects": {
-    "title": "Nos Projets",
-    "iyiligo": {
-      "title": "Étude de Cas : iyiligo - Créer de l'Espoir avec l'Économie Participative",
-      "description": "Notre première plateforme qui fonctionne avec un modèle de transparence radicale, combinant gamification et participation communautaire.",
-      "metrics": {
-        "totalFunds": "Fonds Collectés",
-        "participants": "Nombre de Participants"
-      },
-      "cta": "Visiter iyiligo.com"
-    },
-    "whatsNext": {
-      "title": "Quelle est la Prochaine Étape ?",
-      "description": "iyiligo n'est qu'un début. Notre équipe R&D travaille sur de nouvelles solutions dans des domaines comme l'analyse de données pour les maladies rares et les plateformes de soutien centralisées pour les familles de patients. Restez à l'écoute pour allumer le prochain moteur du bien."
-    }
-  },
   "Career": {
-    "title": "Les Problèmes les Plus Difficiles à Résoudre Recherchent les Esprits les Plus Brillants",
-    "tagline": "Gagnez un but avec votre chèque de paie.",
-    "description": "Nous n'offrons pas de salaire et d'avantages ; vous les recevrez de toute façon. Nous vous offrons une raison de vous lever le matin qui changera le monde.",
-    "whyUs": {
-      "title": "Constitution de 51% : Le Multiplicateur d'Impact de Votre Code",
-      "description": "Chaque ligne de code que vous écrivez ici ne fait pas qu'améliorer un produit ; elle augmente les profits d'une entreprise et 51% de ces profits sont directement transférés à une fondation qui touche la vie d'un enfant. Travailler chez Bulut Labs, c'est faire croître simultanément votre talent, notre succès financier et l'impact social que nous créons. C'est notre 'multiplicateur d'impact'."
+    "title": "Nous Ne Recrutons Pas. Nous Nous Réunissons.",
+    "description": "Au lieu de CVs ou de curriculums, nous croyons aux idées, au potentiel et à la passion. Choisissez la question qui vous parle le plus et partagez vos réflexions avec nous.",
+    "thinkers": {
+      "title": "Pour les Penseurs",
+      "question": "S'il y avait une chose qui pourrait changer la façon dont la technologie interagit avec la société, quelle serait-elle et pourquoi?",
+      "prompt": "Envoyez-nous votre réponse par email."
     },
-    "whoWeSeek": {
-      "title": "Nous Recherchons des Personnes qui Pensent Comme Nous",
-      "description": "Nous recherchons des ingénieurs, designers et stratèges passionnés par les problèmes, excités quand on leur dit 'c'est impossible', et qui attendent avec plus de curiosité le rapport d'impact social de leur code que le rapport financier."
+    "builders": {
+      "title": "Pour les Bâtisseurs",
+      "question": "Parlez-nous d'un petit projet ou prototype dont vous êtes fier et ce que vous en avez appris. Partagez un lien si possible (GitHub, etc.).",
+      "prompt": "Envoyez-nous votre histoire par email."
     },
-    "positions": {
-      "seniorFullStack": "Ingénieur Full Stack Senior",
-      "productDesigner": "Designer Produit",
-      "dataScientist": "Data Scientist",
-      "location": "Remote • Temps plein"
+    "ai_enthusiasts": {
+      "title": "Pour les Passionnés d'IA",
+      "question": "Qu'est-ce qui vous enthousiasme le plus dans les développements actuels de l'IA et comment imaginez-vous qu'elle pourrait être utilisée pour le bien social?",
+      "prompt": "Envoyez-nous vos réflexions par email."
     },
-    "openPositions": "Postes Ouverts"
-  },
-  "JoinUs": {
-    "title": "Codons l'Avenir Ensemble",
-    "subtitle": "Nous avons besoin de vous pour construire ce mouvement. Dans quel rôle aimeriez-vous participer ?",
-    "career": {
-      "title": "CARRIÈRE",
-      "description": "Si vous cherchez non seulement un emploi mais une mission. Si vous voulez changer une vie avec chaque ligne de code que vous écrivez. Rejoignez notre équipe.",
-      "cta": "Postes Ouverts"
+    "contact": {
+      "title": "Commencez la Conversation",
+      "description": "Une des questions ci-dessus vous a intéressé? Ou voulez-vous simplement dire bonjour? Nous serions ravis d'entendre vos pensées."
     },
-    "invest": {
-      "title": "INVESTISSEMENT",
-      "description": "Une opportunité d'investissement de nouvelle génération où le rendement financier rencontre l'impact social. Créez un portefeuille à la fois rentable et significatif. Devenez notre partenaire investisseur.",
-      "cta": "Relations Investisseurs"
-    },
-    "idea": {
-      "title": "IDÉE",
-      "description": "Le prochain 'iyiligo' pourrait être votre idée. Si vous avez un projet axé sur la technologie qui changera le monde et cherchez un partenaire pour le réaliser. Partagez votre idée avec nous.",
-      "cta": "Proposer un Projet"
-    }
-  },
-  "Invest": {
-    "title": "Investissez dans un But Plus Élevé",
-    "subtitle": "Les deux faces du rendement : Financier et Social. Nous maximisons les deux.",
-    "whyStrategic": {
-      "title": "Pourquoi un Investissement Stratégique ?",
-      "content": "Notre modèle n'est pas simplement un projet de responsabilité sociale ; c'est une stratégie commerciale intelligente. Une mission significative attire les meilleurs talents, ce qui signifie de meilleurs produits. Une histoire forte crée une notoriété de marque organique, réduisant les coûts marketing. La transparence radicale construit une fidélité inébranlable des clients et partenaires. Investir dans Bulut Labs, c'est investir dans une entreprise technologique à avantage concurrentiel élevé, renforcée par un impact positif."
-    },
-    "cta": {
-      "text": "Si vous êtes un investisseur accrédité et intéressé à faire partie d'un modèle d'investissement d'impact de nouvelle génération, veuillez nous contacter pour demander notre présentation détaillée aux investisseurs et nos projections financières.",
-      "email": "invest@bulutlabs.com"
-    }
-  },
-  "ProposeProject": {
-    "title": "Le Prochain 'iyiligo' Pourrait-il Être Votre Idée ?",
-    "subtitle": "Nous pouvons allumer ensemble le prochain moteur du bien.",
-    "criteria": {
-      "title": "Nos Critères",
-      "description": "En tant que Bulut Labs, nous recherchons des projets axés sur la technologie, évolutifs et ayant le potentiel de générer leurs propres revenus, qui servent notre mission. Si vous avez une telle idée, nous sommes prêts à écouter."
-    },
-    "form": {
-      "problem": "Quel est le problème ?",
-      "solution": "Votre proposition de solution ?",
-      "revenue": "Modèle de revenus potentiel ?",
-      "contact": "Vos coordonnées",
-      "submit": "Envoyer"
-    }
+    "backHome": "Retour à l'Accueil"
   },
   "Contact": {
     "title": "Contact",
-    "subtitle": "Vous avez une idée pour changer le monde ? Parlons-en.",
+    "subtitle": "You can write to ask questions, give suggestions, or just say hello.",
     "general": {
-      "title": "Contact Général",
-      "description": "Pour vos questions, suggestions ou demandes de collaboration",
+      "title": "General",
+      "description": "For any questions, suggestions, ideas",
       "email": "info@bulutlabs.com"
     },
-    "investor": {
-      "title": "Relations Investisseurs",
-      "description": "Pour les opportunités d'investissement et les informations financières",
-      "email": "invest@bulutlabs.com"
-    },
-    "press": {
-      "title": "Relations Presse",
-      "description": "Pour les demandes médias et les dossiers de presse",
-      "email": "press@bulutlabs.com"
-    },
     "careers": {
-      "title": "Carrières",
-      "description": "Pour les candidatures et les opportunités de carrière",
+      "title": "I Want to Join",
+      "description": "To join the team, to meet",
       "email": "careers@bulutlabs.com"
     },
     "address": {
-      "title": "Adresse",
-      "line1": "Bulut Labs, Inc.",
-      "line2": "Istanbul, Turquie"
+      "title": "Location",
+      "location": "Istanbul, Turkey"
     }
   }
 }

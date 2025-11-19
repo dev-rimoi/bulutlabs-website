@@ -1,178 +1,112 @@
 {
   "HomePage": {
     "hero": {
-      "title": "التكنولوجيا من أجل الخير المستدام",
-      "subtitle": "شركة تقنية تستخدم قوة التكنولوجيا للنفع الاجتماعي، وتخلق تأثيرًا اجتماعيًا دائمًا من خلال حلول برمجية مبتكرة",
-      "cta": "اكتشف تقنيتنا",
-      "badge": "التكنولوجيا من أجل الخير المستدام",
-      "video": "فيديو تعريفي"
+      "badge": "Not started yet",
+      "title": "We're at the Beginning of Something",
+      "subtitle": "We want to build companies that share what they earn. For that, we need good products. Good products need good people. Right now, we're looking for those people.",
+      "cta": "Join Us",
+      "learnMore": "How We'll Work"
     },
-    "proof": {
-      "title": "الدليل الأول: iyiligo",
-      "description": "مشروعنا الأول iyiligo، الذي يجمع بين المشاركة المجتمعية والألعاب والشفافية الجذرية، يثبت قوة نموذجنا.",
-      "totalValue": "القيمة الإجمالية المُنشأة",
-      "campaigns": "الحملات المدعومة",
-      "cta": "استكشف المشروع"
+    "whatWeDo": {
+      "title": "What Are We Doing Now?",
+      "subtitle": "The invisible work. Building systems, designing processes.",
+      "description": "BulutLabs will be a technology platform. But first, people who think, build, and question will come together. The rest will follow."
     },
-    "team": {
-      "title": "نبني فريقًا لحل أصعب المشكلات",
-      "description": "إذا كان أكبر رضا بالنسبة لك هو التغلب على أصعب التحديات، فقد تكون الشخص الذي نبحث عنه.",
-      "cta": "عرض الوظائف المتاحة"
+    "howWeWork": {
+      "title": "How Will We Work?",
+      "subtitle": "Part of what we earn will go to helping others earn. But first, we need to earn.",
+      "model": {
+        "label": "Part of Profit Goes Back",
+        "title": "Sustainable Model",
+        "description": "If we succeed, that success will be shared. With foundations, projects, people. But to do that, we need to succeed first. We'll get there with you.",
+        "note": "Business first, impact second."
+      },
+      "stats": {
+        "tech": "Technology",
+        "impact": "Impact",
+        "pragmatic": "Realism"
+      }
+    },
+    "joinUs": {
+      "title": "We Want to Build This With You",
+      "subtitle": "This isn't a job posting. This is an invitation to know you.",
+      "comingSoon": {
+        "badge": "Not ready yet",
+        "title": "We Don't Do Standard Applications",
+        "description": "Instead of sending a CV and waiting, let's talk. Let's hear who you are, what you want, why you want to be here."
+      },
+      "contact": {
+        "label": "You can write:"
+      },
+      "lookingFor": {
+        "ai": {
+          "icon": "",
+          "title": "The Curious",
+          "description": "Curious about technology, AI, new things. Love learning, questioning."
+        },
+        "builders": {
+          "icon": "",
+          "title": "The Makers",
+          "description": "Prefer doing over talking. Code, design, create."
+        },
+        "thinkers": {
+          "icon": "",
+          "title": "Success + Meaning Seekers",
+          "description": "Just making money isn't enough. Need to do something meaningful too."
+        }
+      }
+    },
+    "contact": {
+      "title": "Let's Talk",
+      "general": "General",
+      "more": "Other"
     }
   },
   "Navigation": {
-    "vision": "الرؤية",
-    "model": "نموذجنا",
-    "projects": "مشاريعنا",
-    "joinUs": "انضم إلينا",
-    "career": "الوظائف",
-    "investorRelations": "علاقات المستثمرين",
-    "proposeProject": "اقترح مشروعًا",
-    "contact": "اتصل بنا"
-  },
-  "Vision": {
-    "title": "الخير. أُعيد برمجته.",
-    "brokenModel": {
-      "title": "النموذج المكسور",
-      "content": "النظام الخيري الحالي يحاول حل مشاكل القرن الحادي والعشرين بأدوات القرن التاسع عشر. المتبرعون لا يعرفون أين تذهب أموالهم، والمنظمات غير الربحية لا تجد دخلاً مستدامًا، والأثر لا يمكن قياسه."
-    },
-    "catalyst": {
-      "title": "المحفز",
-      "content": "تأسست Bulut Labs ليس لإصلاح هذا النظام المكسور، بل لإعادة بنائه من الصفر. نحن نجمع بين سرعة ونطاق شركات التقنية ومهمة المؤسسات الاجتماعية."
-    },
-    "engine": {
-      "title": "محرك الخير",
-      "content": "رؤيتنا بسيطة لكنها ثورية: بناء شركات تقنية مربحة ونامية وتنافسية، وتوجيه 51% من أرباحها بشكل منهجي للفائدة الاجتماعية."
-    }
-  },
-  "Model": {
-    "title": "المحرك والبوصلة: هندسة نموذجنا الهجين",
-    "inc": {
-      "title": "Bulut Labs, Inc.",
-      "subtitle": "المحرك",
-      "description": "إنتاج التقنية، النجاح التجاري، توليد الإيرادات",
-      "status": "شركة Delaware C-Corp"
-    },
-    "foundation": {
-      "title": "مؤسسة Bulut Labs",
-      "subtitle": "البوصلة",
-      "description": "خلق الأثر، توزيع التمويل، الرقابة الشفافة",
-      "status": "501(c)(3)"
-    },
-    "transfer": {
-      "percentage": "تحويل 51% من صافي الأرباح",
-      "rule": "قاعدتنا الدستورية: الربح هو وقود الغرض"
-    }
-  },
-  "Projects": {
-    "title": "مشاريعنا",
-    "iyiligo": {
-      "title": "دراسة حالة: iyiligo - خلق الأمل باقتصاد المشاركة",
-      "description": "منصتنا الأولى التي تعمل بنموذج الشفافية الجذرية، وتجمع بين الألعاب والمشاركة المجتمعية.",
-      "metrics": {
-        "totalFunds": "الأموال المجمّعة",
-        "participants": "عدد المشاركين"
-      },
-      "cta": "زيارة iyiligo.com"
-    },
-    "whatsNext": {
-      "title": "ماذا بعد؟",
-      "description": "iyiligo هي مجرد البداية. يعمل فريق البحث والتطوير لدينا على حلول جديدة في مجالات مثل تحليلات البيانات للأمراض النادرة ومنصات الدعم المركزية لأسر المرضى. تابعونا لإشعال محرك الخير التالي."
-    }
+    "home": "Home",
+    "career": "Career",
+    "contact": "Contact"
   },
   "Career": {
-    "title": "أصعب المشكلات التي يجب حلها تبحث عن ألمع العقول",
-    "tagline": "اكسب غرضًا مع راتبك.",
-    "description": "نحن لا نقدم رواتب ومزايا؛ ستحصل عليها على أي حال. نحن نقدم لك سببًا لتغيير العالم للنهوض من السرير في الصباح.",
-    "whyUs": {
-      "title": "دستور 51%: مضاعف تأثير الكود الخاص بك",
-      "description": "كل سطر كود تكتبه هنا لا يحسّن منتجًا فحسب؛ بل يزيد من ربح الشركة و51% من هذا الربح يُحول مباشرة إلى مؤسسة تمس حياة طفل. العمل في Bulut Labs يعني تنمية موهبتك ونجاحنا المالي والأثر الاجتماعي الذي نخلقه في نفس الوقت. هذا هو 'مضاعف التأثير' لدينا."
+    "title": "نحن لا نوظف. نحن نجتمع.",
+    "description": "بدلاً من السير الذاتية، نؤمن بالأفكار والإمكانات والشغف. اختر السؤال الذي يتحدث إليك أكثر وشاركنا أفكارك.",
+    "thinkers": {
+      "title": "للمفكرين",
+      "question": "إذا كان هناك شيء واحد يمكن أن يغير كيفية تفاعل التكنولوجيا مع المجتمع، ماذا سيكون ولماذا؟",
+      "prompt": "أرسل لنا إجابتك عبر البريد الإلكتروني."
     },
-    "whoWeSeek": {
-      "title": "نبحث عن أولئك الذين يفكرون مثلنا",
-      "description": "نبحث عن مهندسين ومصممين واستراتيجيين عاشقين للمشكلات، يتحمسون عندما يُقال لهم 'هذا لا يمكن فعله'، وينتظرون تقرير الأثر الاجتماعي للكود الذي يكتبونه بفضول أكبر من التقرير المالي."
+    "builders": {
+      "title": "للبناة",
+      "question": "أخبرنا عن مشروع صغير أو نموذج أولي تفتخر به وما تعلمته منه. شارك رابطًا إن أمكن (GitHub، إلخ).",
+      "prompt": "أرسل لنا قصتك عبر البريد الإلكتروني."
     },
-    "positions": {
-      "seniorFullStack": "مهندس Full Stack متقدم",
-      "productDesigner": "مصمم منتجات",
-      "dataScientist": "عالم بيانات",
-      "location": "عن بعد • وقت كامل"
+    "ai_enthusiasts": {
+      "title": "لمتحمسي الذكاء الاصطناعي",
+      "question": "ما الذي يثيرك أكثر في التطورات الحالية في الذكاء الاصطناعي وكيف تتخيل استخدامه للصالح الاجتماعي؟",
+      "prompt": "أرسل لنا أفكارك عبر البريد الإلكتروني."
     },
-    "openPositions": "الوظائف المتاحة"
-  },
-  "JoinUs": {
-    "title": "لنبرمج المستقبل معًا",
-    "subtitle": "نحتاجك أيضًا أثناء بناء هذه الحركة. في أي دور ترغب في المشاركة؟",
-    "career": {
-      "title": "الوظائف",
-      "description": "إذا كنت تبحث عن مهمة وليس مجرد وظيفة. إذا كنت تريد تغيير حياة بكل سطر كود تكتبه. كن جزءًا من فريقنا.",
-      "cta": "الوظائف المتاحة"
+    "contact": {
+      "title": "ابدأ المحادثة",
+      "description": "هل أثار اهتمامك أحد الأسئلة أعلاه؟ أم تريد فقط أن تقول مرحباً؟ نحب أن نسمع أفكارك."
     },
-    "invest": {
-      "title": "الاستثمار",
-      "description": "فرصة استثمارية من الجيل الجديد حيث يلتقي العائد المالي بالأثر الاجتماعي. أنشئ محفظة مربحة وذات معنى. كن شريكنا الاستثماري.",
-      "cta": "علاقات المستثمرين"
-    },
-    "idea": {
-      "title": "الفكرة",
-      "description": "قد تكون فكرتك هي 'iyiligo' التالية. إذا كان لديك مشروع تقني سيغير العالم وتبحث عن شريك لتحقيقه. شارك فكرتك معنا.",
-      "cta": "اقترح مشروعًا"
-    }
-  },
-  "Invest": {
-    "title": "استثمر في هدف أسمى",
-    "subtitle": "وجهان للعائد: المالي والاجتماعي. نحن نعظّم كليهما.",
-    "whyStrategic": {
-      "title": "لماذا هو استثمار استراتيجي؟",
-      "content": "نموذجنا ليس مجرد مشروع مسؤولية اجتماعية؛ إنه استراتيجية عمل ذكية. المهمة ذات المعنى تجذب أفضل المواهب، وهذا يعني منتجات أفضل. القصة القوية تخلق وعيًا بالعلامة التجارية بشكل طبيعي، مما يقلل تكاليف التسويق. الشفافية الجذرية تبني ولاءً راسخًا للعملاء والشركاء. الاستثمار في Bulut Labs يعني الاستثمار في شركة تقنية ذات ميزة تنافسية عالية، معززة بالأثر الإيجابي."
-    },
-    "cta": {
-      "text": "إذا كنت مستثمرًا معتمدًا ومهتمًا بأن تكون جزءًا من نموذج استثمار الأثر من الجيل الجديد، يرجى التواصل معنا لطلب عرضنا التقديمي المفصل للمستثمرين وتوقعاتنا المالية.",
-      "email": "invest@bulutlabs.com"
-    }
-  },
-  "ProposeProject": {
-    "title": "هل يمكن أن تكون فكرتك هي 'iyiligo' التالية؟",
-    "subtitle": "يمكننا إشعال محرك الخير التالي معًا.",
-    "criteria": {
-      "title": "معاييرنا",
-      "description": "كـ Bulut Labs، نبحث عن مشاريع تخدم مهمتنا، تركز على التقنية، قابلة للتوسع ولديها القدرة على توليد إيراداتها الخاصة. إذا كانت لديك مثل هذه الفكرة، فنحن مستعدون للاستماع."
-    },
-    "form": {
-      "problem": "ما هي المشكلة؟",
-      "solution": "ما هو الحل المقترح؟",
-      "revenue": "نموذج الإيرادات المحتمل؟",
-      "contact": "معلومات الاتصال الخاصة بك",
-      "submit": "إرسال"
-    }
+    "backHome": "العودة للصفحة الرئيسية"
   },
   "Contact": {
-    "title": "اتصل بنا",
-    "subtitle": "هل لديك فكرة لتغيير العالم؟ لنتحدث.",
+    "title": "Contact",
+    "subtitle": "You can write to ask questions, give suggestions, or just say hello.",
     "general": {
-      "title": "الاتصال العام",
-      "description": "لأسئلتكم واقتراحاتكم وطلبات التعاون",
+      "title": "General",
+      "description": "For any questions, suggestions, ideas",
       "email": "info@bulutlabs.com"
     },
-    "investor": {
-      "title": "علاقات المستثمرين",
-      "description": "لفرص الاستثمار والمعلومات المالية",
-      "email": "invest@bulutlabs.com"
-    },
-    "press": {
-      "title": "العلاقات الإعلامية",
-      "description": "للاستفسارات الإعلامية والبيانات الصحفية",
-      "email": "press@bulutlabs.com"
-    },
     "careers": {
-      "title": "الوظائف",
-      "description": "لطلبات التوظيف والفرص الوظيفية",
+      "title": "I Want to Join",
+      "description": "To join the team, to meet",
       "email": "careers@bulutlabs.com"
     },
     "address": {
-      "title": "العنوان",
-      "line1": "Bulut Labs, Inc.",
-      "line2": "إسطنبول، تركيا"
+      "title": "Location",
+      "location": "Istanbul, Turkey"
     }
   }
 }

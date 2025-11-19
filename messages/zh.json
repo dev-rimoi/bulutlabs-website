@@ -1,178 +1,112 @@
 {
   "HomePage": {
     "hero": {
-      "title": "科技赋能可持续公益",
-      "subtitle": "我们是一家科技公司，通过创新的软件解决方案创造持久的社会影响，将科技的力量用于社会公益",
-      "cta": "探索我们的技术",
-      "badge": "科技赋能可持续公益",
-      "video": "介绍视频"
+      "badge": "Not started yet",
+      "title": "We're at the Beginning of Something",
+      "subtitle": "We want to build companies that share what they earn. For that, we need good products. Good products need good people. Right now, we're looking for those people.",
+      "cta": "Join Us",
+      "learnMore": "How We'll Work"
     },
-    "proof": {
-      "title": "首个验证：iyiligo",
-      "description": "我们的第一个项目iyiligo将社会参与、游戏化和彻底透明结合在一起，证明了我们模式的力量。",
-      "totalValue": "创造的总价值",
-      "campaigns": "支持的活动",
-      "cta": "查看项目"
+    "whatWeDo": {
+      "title": "What Are We Doing Now?",
+      "subtitle": "The invisible work. Building systems, designing processes.",
+      "description": "BulutLabs will be a technology platform. But first, people who think, build, and question will come together. The rest will follow."
     },
-    "team": {
-      "title": "我们正在组建一支解决最难问题的团队",
-      "description": "如果您最大的满足感也来自于克服最艰难的挑战，您可能正是我们要找的人。",
-      "cta": "查看空缺职位"
+    "howWeWork": {
+      "title": "How Will We Work?",
+      "subtitle": "Part of what we earn will go to helping others earn. But first, we need to earn.",
+      "model": {
+        "label": "Part of Profit Goes Back",
+        "title": "Sustainable Model",
+        "description": "If we succeed, that success will be shared. With foundations, projects, people. But to do that, we need to succeed first. We'll get there with you.",
+        "note": "Business first, impact second."
+      },
+      "stats": {
+        "tech": "Technology",
+        "impact": "Impact",
+        "pragmatic": "Realism"
+      }
+    },
+    "joinUs": {
+      "title": "We Want to Build This With You",
+      "subtitle": "This isn't a job posting. This is an invitation to know you.",
+      "comingSoon": {
+        "badge": "Not ready yet",
+        "title": "We Don't Do Standard Applications",
+        "description": "Instead of sending a CV and waiting, let's talk. Let's hear who you are, what you want, why you want to be here."
+      },
+      "contact": {
+        "label": "You can write:"
+      },
+      "lookingFor": {
+        "ai": {
+          "icon": "",
+          "title": "The Curious",
+          "description": "Curious about technology, AI, new things. Love learning, questioning."
+        },
+        "builders": {
+          "icon": "",
+          "title": "The Makers",
+          "description": "Prefer doing over talking. Code, design, create."
+        },
+        "thinkers": {
+          "icon": "",
+          "title": "Success + Meaning Seekers",
+          "description": "Just making money isn't enough. Need to do something meaningful too."
+        }
+      }
+    },
+    "contact": {
+      "title": "Let's Talk",
+      "general": "General",
+      "more": "Other"
     }
   },
   "Navigation": {
-    "vision": "愿景",
-    "model": "我们的模式",
-    "projects": "我们的项目",
-    "joinUs": "加入我们",
-    "career": "职业发展",
-    "investorRelations": "投资者关系",
-    "proposeProject": "提交项目",
-    "contact": "联系我们"
-  },
-  "Vision": {
-    "title": "公益。重新编码。",
-    "brokenModel": {
-      "title": "破碎的模式",
-      "content": "现有的慈善体系正试图用19世纪的工具解决21世纪的问题。捐赠者不知道资金流向何处，非营利组织找不到可持续的收入，影响力无法衡量。"
-    },
-    "catalyst": {
-      "title": "催化剂",
-      "content": "Bulut Labs不是为了修复这个破碎的系统而成立的，而是为了从零开始重建它。我们将科技公司的速度和规模与社会机构的使命相结合。"
-    },
-    "engine": {
-      "title": "公益引擎",
-      "content": "我们的愿景简单却具有革命性：建立盈利、增长、竞争的科技公司，并系统地将其51%的利润用于社会公益。"
-    }
-  },
-  "Model": {
-    "title": "引擎与指南针：我们的混合模式架构",
-    "inc": {
-      "title": "Bulut Labs, Inc.",
-      "subtitle": "引擎",
-      "description": "技术生产、商业成功、创造收入",
-      "status": "特拉华州C类公司"
-    },
-    "foundation": {
-      "title": "Bulut Labs Foundation",
-      "subtitle": "指南针",
-      "description": "创造影响、资金分配、透明监督",
-      "status": "501(c)(3)"
-    },
-    "transfer": {
-      "percentage": "51%净利润转移",
-      "rule": "我们的宪法规则：利润是目标的燃料"
-    }
-  },
-  "Projects": {
-    "title": "我们的项目",
-    "iyiligo": {
-      "title": "案例研究：iyiligo - 通过参与经济创造希望",
-      "description": "我们的第一个平台采用彻底透明的模式运作，将游戏化与社会参与相结合。",
-      "metrics": {
-        "totalFunds": "筹集资金",
-        "participants": "参与者数量"
-      },
-      "cta": "访问iyiligo.com"
-    },
-    "whatsNext": {
-      "title": "下一步是什么？",
-      "description": "iyiligo只是一个开始。我们的研发团队正在研究新的解决方案，包括罕见疾病的数据分析、患者家庭的中央支持平台等领域。请持续关注我们，点燃下一个公益引擎。"
-    }
+    "home": "Home",
+    "career": "Career",
+    "contact": "Contact"
   },
   "Career": {
-    "title": "最难解决的问题需要最聪明的头脑",
-    "tagline": "让您的薪水带有使命感。",
-    "description": "我们不提供薪水和福利；您本来就会得到这些。我们为您提供的是每天早上起床就想改变世界的理由。",
-    "whyUs": {
-      "title": "51%宪章：您代码的影响乘数",
-      "description": "您在这里编写的每一行代码不仅仅改进产品；它增加了公司的利润，而这些利润的51%直接转移到一个能够触及孩子生活的基金会。在Bulut Labs工作意味着同时增长您的才能、我们的财务成功和我们创造的社会影响。这就是我们的'影响乘数'。"
+    "title": "我们不招聘。我们聚集。",
+    "description": "我们相信想法、潜力和热情，而不是简历。选择最能打动你的问题，与我们分享你的想法。",
+    "thinkers": {
+      "title": "给思考者",
+      "question": "如果有一件事可以改变技术与社会的互动方式，那会是什么？为什么？",
+      "prompt": "通过电子邮件发送您的答案。"
     },
-    "whoWeSeek": {
-      "title": "我们寻找志同道合的人",
-      "description": "我们寻找热爱解决问题、听到'这做不到'时会兴奋、对代码创造的社会影响报告比财务报告更感兴趣的工程师、设计师和策略师。"
+    "builders": {
+      "title": "给建造者",
+      "question": "告诉我们一个让您自豪的小项目或原型，以及您从中学到了什么。如果可能，请分享链接（GitHub等）。",
+      "prompt": "通过电子邮件发送您的故事。"
     },
-    "positions": {
-      "seniorFullStack": "高级全栈工程师",
-      "productDesigner": "产品设计师",
-      "dataScientist": "数据科学家",
-      "location": "远程 • 全职"
+    "ai_enthusiasts": {
+      "title": "给AI爱好者",
+      "question": "当前AI发展中最让您兴奋的是什么？您如何想象它可以用于社会公益？",
+      "prompt": "通过电子邮件发送您的想法。"
     },
-    "openPositions": "空缺职位"
-  },
-  "JoinUs": {
-    "title": "让我们一起编码未来",
-    "subtitle": "在建设这个运动的过程中，我们也需要您。您想扮演什么角色？",
-    "career": {
-      "title": "职业发展",
-      "description": "如果您不仅仅在寻找一份工作，而是一个使命。如果您想通过编写的每一行代码改变一个生命。成为我们团队的一部分。",
-      "cta": "空缺职位"
+    "contact": {
+      "title": "开始对话",
+      "description": "上面的问题引起了您的兴趣吗？或者您只是想打个招呼？我们很想听听您的想法。"
     },
-    "invest": {
-      "title": "投资",
-      "description": "新一代投资机会，将财务回报与社会影响相结合。创建一个既盈利又有意义的投资组合。成为我们的投资伙伴。",
-      "cta": "投资者关系"
-    },
-    "idea": {
-      "title": "创意",
-      "description": "下一个'iyiligo'可能是您的想法。如果您有一个能改变世界的技术驱动项目，正在寻找一个能将其实现的合作伙伴。与我们分享您的想法。",
-      "cta": "提交项目"
-    }
-  },
-  "Invest": {
-    "title": "投资于更高的目标",
-    "subtitle": "回报的两面：财务和社会。我们两者都最大化。",
-    "whyStrategic": {
-      "title": "为什么这是战略投资？",
-      "content": "我们的模式不仅仅是一个社会责任项目；它是一个明智的商业策略。有意义的使命吸引最优秀的人才，这意味着更好的产品。强大的故事创造有机的品牌知名度，降低营销成本。彻底的透明度建立坚不可摧的客户和合作伙伴忠诚度。投资Bulut Labs就是投资一家由积极影响力增强、具有高竞争优势的科技公司。"
-    },
-    "cta": {
-      "text": "如果您是认证投资者，并有兴趣成为新一代影响力投资模式的一部分，请联系我们以获取详细的投资者演示和财务预测。",
-      "email": "invest@bulutlabs.com"
-    }
-  },
-  "ProposeProject": {
-    "title": "下一个'iyiligo'可能是您的想法吗？",
-    "subtitle": "我们可以一起点燃下一个公益引擎。",
-    "criteria": {
-      "title": "我们的标准",
-      "description": "作为Bulut Labs，我们寻找服务于我们使命、以技术为驱动、可扩展且具有自我创收潜力的项目。如果您有这样的想法，我们愿意倾听。"
-    },
-    "form": {
-      "problem": "问题是什么？",
-      "solution": "您的解决方案？",
-      "revenue": "潜在的收入模式？",
-      "contact": "您的联系信息",
-      "submit": "提交"
-    }
+    "backHome": "返回首页"
   },
   "Contact": {
-    "title": "联系我们",
-    "subtitle": "有改变世界的想法吗？让我们谈谈。",
+    "title": "Contact",
+    "subtitle": "You can write to ask questions, give suggestions, or just say hello.",
     "general": {
-      "title": "一般咨询",
-      "description": "对于您的问题、建议或合作请求",
+      "title": "General",
+      "description": "For any questions, suggestions, ideas",
       "email": "info@bulutlabs.com"
     },
-    "investor": {
-      "title": "投资者关系",
-      "description": "投资机会和财务信息",
-      "email": "invest@bulutlabs.com"
-    },
-    "press": {
-      "title": "媒体关系",
-      "description": "媒体查询和新闻资料",
-      "email": "press@bulutlabs.com"
-    },
     "careers": {
-      "title": "职业发展",
-      "description": "工作申请和职业机会",
+      "title": "I Want to Join",
+      "description": "To join the team, to meet",
       "email": "careers@bulutlabs.com"
     },
     "address": {
-      "title": "地址",
-      "line1": "Bulut Labs, Inc.",
-      "line2": "土耳其，伊斯坦布尔"
+      "title": "Location",
+      "location": "Istanbul, Turkey"
     }
   }
 }

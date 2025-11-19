@@ -1,178 +1,112 @@
 {
   "HomePage": {
     "hero": {
-      "title": "Sürdürülebilir İyilik İçin Teknoloji",
-      "subtitle": "Yenilikçi yazılım çözümleriyle kalıcı sosyal etki yaratan, teknolojinin gücünü toplumsal fayda için kullanan bir teknoloji şirketi",
-      "cta": "Teknolojimizi Keşfedin",
-      "badge": "Sürdürülebilir İyilik İçin Teknoloji",
-      "video": "Tanıtım Videosu"
+      "badge": "Henüz başlamadık",
+      "title": "Bir Şeylerin Başlangıcındayız",
+      "subtitle": "Kazandığını paylaşan şirketler kurmak istiyoruz. Bunun için iyi ürünler, iyi ürünler için iyi insanlar lazım. Şimdi o insanları arıyoruz.",
+      "cta": "Aramıza Katıl",
+      "learnMore": "Nasıl Çalışacağız"
     },
-    "proof": {
-      "title": "İlk Kanıt: iyiligo",
-      "description": "Toplumsal katılımı, oyunlaştırma ve radikal şeffaflıkla birleştiren ilk projemiz iyiligo, modelimizin gücünü kanıtlıyor.",
-      "totalValue": "Yaratılan Toplam Değer",
-      "campaigns": "Desteklenen Kampanya",
-      "cta": "Projeyi İncele"
+    "whatWeDo": {
+      "title": "Şu An Ne Yapıyoruz?",
+      "subtitle": "Görünmeyen işleri yapıyoruz. Sistemleri kuruyoruz, süreçleri tasarlıyoruz.",
+      "description": "BulutLabs bir teknoloji platformu olacak. Ama önce, düşünen, yapan, sorgulayan insanlar bir araya gelecek. Geri kalanı kendiliğinden gelir."
     },
-    "team": {
-      "title": "En Zor Problemleri Çözecek Bir Ekip Kuruyoruz",
-      "description": "Eğer sizin için de en büyük tatmin, en zorlu mücadelenin üstesinden gelmekse, aradığımız kişi siz olabilirsiniz.",
-      "cta": "Açık Pozisyonları Gör"
+    "howWeWork": {
+      "title": "Nasıl Çalışacağız?",
+      "subtitle": "Kazandığımızın bir kısmı, başkalarının kazanmasına gidecek. Ama önce kazanmalıyız.",
+      "model": {
+        "label": "Karın Bir Kısmı Geri Döner",
+        "title": "Sürdürülebilir Model",
+        "description": "Başarılı olursak, o başarı paylaşılacak. Vakfa, projelere, insanlara. Ama bunu yapmak için önce başarılı olmamız lazım. Oraya giderken seninle.",
+        "note": "Önce iş, sonra etki."
+      },
+      "stats": {
+        "tech": "Teknoloji",
+        "impact": "Etki",
+        "pragmatic": "Gerçekçilik"
+      }
+    },
+    "joinUs": {
+      "title": "Seninle Kurmak İstiyoruz",
+      "subtitle": "Bu bir iş ilanı değil. Bu, seni tanımak için bir davet.",
+      "comingSoon": {
+        "badge": "Henüz hazır değil",
+        "title": "Standart Başvuru Yapmıyoruz",
+        "description": "CV gönderip beklemek yerine, konuşalım. Kim olduğunu, ne istediğini, neden burada olmak istediğini dinleyelim."
+      },
+      "contact": {
+        "label": "Yazabilirsin:"
+      },
+      "lookingFor": {
+        "ai": {
+          "icon": "",
+          "title": "Meraklı Olanlar",
+          "description": "Teknolojiye, AI'a, yeni şeylere meraklı. Öğrenmeyi seven, sorgulayan."
+        },
+        "builders": {
+          "icon": "",
+          "title": "Yapanlar",
+          "description": "Konuşmaktan çok yapmayı seven. Kod yazan, tasarlayan, üreten."
+        },
+        "thinkers": {
+          "icon": "",
+          "title": "Başarı + Anlam İsteyenler",
+          "description": "Sadece para kazanmak yetmiyor. Anlamlı bir şey yapmak da lazım diyenler."
+        }
+      }
+    },
+    "contact": {
+      "title": "Konuşalım",
+      "general": "Genel",
+      "more": "Diğer"
     }
   },
   "Navigation": {
-    "vision": "Vizyon",
-    "model": "Modelimiz",
-    "projects": "Projelerimiz",
-    "joinUs": "Bize Katılın",
+    "home": "Ana Sayfa",
     "career": "Kariyer",
-    "investorRelations": "Yatırımcı İlişkileri",
-    "proposeProject": "Proje Öner",
     "contact": "İletişim"
   },
-  "Vision": {
-    "title": "İyilik. Yeniden Kodlandı.",
-    "brokenModel": {
-      "title": "Kırık Model",
-      "content": "Mevcut hayırseverlik sistemi, 19. yüzyılın araçlarıyla 21. yüzyılın sorunlarını çözmeye çalışıyor. Bağışçılar nereye gittiklerini bilmiyor, STK'lar sürdürülebilir gelir bulamıyor, etki ölçülemiyor."
-    },
-    "catalyst": {
-      "title": "Katalizör",
-      "content": "Bulut Labs, bu kırık sistemi onarmak için değil, sıfırdan yeniden inşa etmek için kuruldu. Teknoloji şirketlerinin hızını ve ölçeğini, sosyal kurumların misyonuyla birleştiriyoruz."
-    },
-    "engine": {
-      "title": "İyilik Motoru",
-      "content": "Vizyonumuz basit ama devrimsel: Kâr eden, büyüyen, rekabet eden teknoloji şirketleri kurup, kârlarının %51'ini sistematik olarak toplumsal faydaya yönlendirmek."
-    }
-  },
-  "Model": {
-    "title": "Motor ve Pusula: Hibrit Model Mimarimiz",
-    "inc": {
-      "title": "Bulut Labs, Inc.",
-      "subtitle": "MOTOR",
-      "description": "Teknoloji Üretimi, Ticari Başarı, Gelir Yaratma",
-      "status": "Delaware C-Corp"
-    },
-    "foundation": {
-      "title": "Bulut Labs Foundation",
-      "subtitle": "PUSULA",
-      "description": "Etki Yaratma, Fon Dağıtımı, Şeffaf Denetim",
-      "status": "501(c)(3)"
-    },
-    "transfer": {
-      "percentage": "%51 Net Kâr Aktarımı",
-      "rule": "Anayasal Kuralımız: Kâr, Amacın Yakıtıdır"
-    }
-  },
-  "Projects": {
-    "title": "Projelerimiz",
-    "iyiligo": {
-      "title": "Vaka Analizi: iyiligo - Katılım Ekonomisiyle Umut Yaratmak",
-      "description": "Radikal şeffaflık modeliyle çalışan, oyunlaştırma ve toplumsal katılımı birleştiren ilk platformumuz.",
-      "metrics": {
-        "totalFunds": "Toplanan Fon",
-        "participants": "Katılımcı Sayısı"
-      },
-      "cta": "iyiligo.com'u Ziyaret Et"
-    },
-    "whatsNext": {
-      "title": "Sırada Ne Var?",
-      "description": "iyiligo sadece bir başlangıç. Ar-Ge ekibimiz, nadir hastalıklar için veri analitiği, hasta aileleri için merkezi destek platformları gibi alanlarda yeni çözümler üzerinde çalışıyor. Sıradaki iyilik motorunu ateşlemek için bizi takipte kalın."
-    }
-  },
   "Career": {
-    "title": "Çözülmesi En Zor Problemler, En Parlak Zihinleri Arıyor",
-    "tagline": "Maaş çekinizle birlikte bir amaç kazanın.",
-    "description": "Maaş ve yan haklar sunmuyoruz; onları zaten alacaksınız. Biz size, sabah yataktan kalkmanız için dünyayı değiştirecek bir neden sunuyoruz.",
-    "whyUs": {
-      "title": "%51 Anayasası: Kodunuzun Etki Çarpanı",
-      "description": "Burada yazdığınız her kod satırı, sadece bir ürünü iyileştirmez; bir şirketin kârını artırır ve o kârın %51'i doğrudan bir çocuğun hayatına dokunan bir vakfa aktarılır. Bulut Labs'te çalışmak, yeteneğinizi, finansal başarımızı ve yarattığımız sosyal etkiyi aynı anda büyütmektir. İşte bu, bizim 'etki çarpanımız'."
+    "title": "İşe Almıyoruz. Bir Araya Geliyoruz.",
+    "description": "CV'ler veya özgeçmişler yerine fikirlere, potansiyele ve tutkuya inanıyoruz. Aşağıdaki sorulardan size en çok hitap edeni seçin ve düşüncelerinizi bizimle paylaşın.",
+    "thinkers": {
+      "title": "Düşünürler İçin",
+      "question": "Teknolojinin toplumla etkileşimini değiştirebilecek tek bir şey olsaydı, bu ne olurdu ve neden?",
+      "prompt": "Cevabınızı bize e-posta ile gönderin."
     },
-    "whoWeSeek": {
-      "title": "Bizim Gibi Düşünenleri Arıyoruz",
-      "description": "Problemlere aşık, 'bu yapılamaz' dendiğinde heyecanlanan, yazdığı kodun yarattığı sosyal etki raporunu, finansal rapordan daha büyük bir merakla bekleyen mühendisler, tasarımcılar ve stratejistler arıyoruz."
+    "builders": {
+      "title": "Yapıcılar İçin",
+      "question": "Gurur duyduğunuz küçük bir projenizi veya prototipinizi ve ondan ne öğrendiğinizi anlatın. Mümkünse bir bağlantı paylaşın (GitHub vb.).",
+      "prompt": "Hikayenizi bize e-posta ile gönderin."
     },
-    "positions": {
-      "seniorFullStack": "Kıdemli Full Stack Mühendisi",
-      "productDesigner": "Ürün Tasarımcısı",
-      "dataScientist": "Veri Bilimci",
-      "location": "Uzaktan • Tam Zamanlı"
+    "ai_enthusiasts": {
+      "title": "AI Meraklıları İçin",
+      "question": "Yapay zekadaki güncel gelişmelerden sizi en çok heyecanlandıran nedir ve bunun toplumsal fayda için nasıl kullanılabileceğini hayal ediyorsunuz?",
+      "prompt": "Düşüncelerinizi bize e-posta ile gönderin."
     },
-    "openPositions": "Açık Pozisyonlar"
-  },
-  "JoinUs": {
-    "title": "Geleceği Birlikte Kodlayalım",
-    "subtitle": "Bu hareketi inşa ederken size de ihtiyacımız var. Hangi rolde yer almak istersiniz?",
-    "career": {
-      "title": "KARİYER",
-      "description": "Sadece bir iş değil, bir misyon arıyorsanız. Yazdığınız her kod satırıyla bir hayat değiştirmek istiyorsanız. Ekibimizin bir parçası olun.",
-      "cta": "Açık Pozisyonlar"
+    "contact": {
+      "title": "Sohbeti Başlatın",
+      "description": "Yukarıdaki sorulardan biri ilginizi mi çekti? Yoksa sadece merhaba mı demek istiyorsunuz? Düşüncelerinizi duymayı çok isteriz."
     },
-    "invest": {
-      "title": "YATIRIM",
-      "description": "Finansal getirinin sosyal etkiyle birleştiği yeni nesil bir yatırım fırsatı. Hem kârlı hem de anlamlı bir portföy yaratın. Yatırımcı ortağımız olun.",
-      "cta": "Yatırımcı İlişkileri"
-    },
-    "idea": {
-      "title": "FİKİR",
-      "description": "Sıradaki 'iyiligo' sizin fikriniz olabilir. Dünyayı değiştirecek teknoloji odaklı bir projeniz varsa, onu hayata geçirecek bir partner arıyorsanız. Fikrinizi bizimle paylaşın.",
-      "cta": "Proje Öner"
-    }
-  },
-  "Invest": {
-    "title": "Daha Yüksek Bir Amaca Yatırım Yapın",
-    "subtitle": "Getirinin iki yüzü: Finansal ve Sosyal. Biz ikisini de maksimize ediyoruz.",
-    "whyStrategic": {
-      "title": "Neden Stratejik Bir Yatırım?",
-      "content": "Modelimiz, sadece bir sosyal sorumluluk projesi değildir; akıllı bir iş stratejisidir. Anlamlı bir misyon, en iyi yetenekleri çeker, bu da daha iyi ürünler demektir. Güçlü bir hikaye, organik bir marka bilinirliği yaratır, bu da pazarlama maliyetlerini düşürür. Radikal şeffaflık, sarsılmaz bir müşteri ve ortak sadakati inşa eder. Bulut Labs'e yatırım yapmak, pozitif etkiyle güçlendirilmiş, rekabet avantajı yüksek bir teknoloji şirketine yatırım yapmaktır."
-    },
-    "cta": {
-      "text": "Akredite bir yatırımcıysanız ve yeni nesil bir etki yatırımı modelinin parçası olmakla ilgileniyorsanız, detaylı yatırımcı sunumumuzu ve finansal projeksiyonlarımızı talep etmek için lütfen bizimle iletişime geçin.",
-      "email": "invest@bulutlabs.com"
-    }
-  },
-  "ProposeProject": {
-    "title": "Sıradaki 'iyiligo' Sizin Fikriniz Olabilir mi?",
-    "subtitle": "Sıradaki iyilik motorunu birlikte ateşleyebiliriz.",
-    "criteria": {
-      "title": "Kriterlerimiz",
-      "description": "Bulut Labs olarak, misyonumuza hizmet eden, teknoloji odaklı, ölçeklenebilir ve kendi gelirini yaratma potansiyeli olan projeler arıyoruz. Eğer böyle bir fikriniz varsa, dinlemeye hazırız."
-    },
-    "form": {
-      "problem": "Sorun nedir?",
-      "solution": "Çözüm öneriniz?",
-      "revenue": "Potansiyel gelir modeli?",
-      "contact": "İletişim bilgileriniz",
-      "submit": "Gönder"
-    }
+    "backHome": "Ana Sayfaya Dön"
   },
   "Contact": {
     "title": "İletişim",
-    "subtitle": "Dünyayı değiştirmek için bir fikriniz mi var? Konuşalım.",
+    "subtitle": "Soru sormak, öneri vermek veya sadece merhaba demek için yazabilirsin.",
     "general": {
-      "title": "Genel İletişim",
-      "description": "Sorularınız, önerileriniz veya işbirliği talepleriniz için",
+      "title": "Genel",
+      "description": "Her türlü soru, öneri, fikir için",
       "email": "info@bulutlabs.com"
     },
-    "investor": {
-      "title": "Yatırımcı İlişkileri",
-      "description": "Yatırım fırsatları ve finansal bilgiler için",
-      "email": "invest@bulutlabs.com"
-    },
-    "press": {
-      "title": "Basın İlişkileri",
-      "description": "Medya sorguları ve basın kitleri için",
-      "email": "press@bulutlabs.com"
-    },
     "careers": {
-      "title": "Kariyer",
-      "description": "İş başvuruları ve kariyer fırsatları için",
+      "title": "Katılmak İstiyorum",
+      "description": "Ekibe katılmak, tanışmak için",
       "email": "careers@bulutlabs.com"
     },
     "address": {
-      "title": "Adres",
-      "line1": "Bulut Labs, Inc.",
-      "line2": "İstanbul, Türkiye"
+      "title": "Konum",
+      "location": "İstanbul, Türkiye"
     }
   }
 }
